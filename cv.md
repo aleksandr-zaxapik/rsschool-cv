@@ -19,3 +19,8 @@ let result = sum (10, 12);
 alert (result);
 ```
 ## Experience: 
+## Education:
+* University: Belarusian National Technical University, Specialty "Technical operation of cars", 2016.
+## Languages:
+* Russian - native speaker
+* English - A2
